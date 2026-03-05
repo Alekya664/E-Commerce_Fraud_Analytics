@@ -34,3 +34,7 @@ The dataset contains product reviews with rating, review text, verification stat
 View the interactive Tableau dashboard here:
 
 🔗 https://public.tableau.com/views/EcommerceFraudAnalytics/Dashboard1
+
+## Dataset from Kaggle link
+
+Link : https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset?select=amazon_reviews_us_Apparel_v1_00.tsv
